@@ -2,7 +2,7 @@
   "name": "Demo Token",
   "symbol": "DEMO",
   "description": "Contoh token pumpfun-like di devnet",
-  "image": "https://raw.githubusercontent.com/nanangtop1/metadata-tes/165d2427dfefc346841b709592824e5099607b7b/public/pump-demo/logo1.jpg",
+  "image": "https://raw.githubusercontent.com/nanangtop1/metadata-tes/4eb3b4328d23e35f65c4097e242f06cff22d3334/public/pump-demo/logo1.jpg",
   "external_url": "https://example.com",
   "attributes": [
     {
@@ -14,14 +14,14 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/nanangtop1/metadata-tes/165d2427dfefc346841b709592824e5099607b7b/public/pump-demo/logo1.jpg",
+        "uri": "https://raw.githubusercontent.com/nanangtop1/metadata-tes/4eb3b4328d23e35f65c4097e242f06cff22d3334/public/pump-demo/logo1.jpg",
         "type": "image/jpeg"
       }
     ]
   },
   "extensions": {
     "website": "https://example.com",
-    "twitter": "https://twitter.com/example",
+    "twitter": "https://x.com/FullTimeDegen1",
     "telegram": "https://t.me/example",
     "discord": "https://discord.gg/example"
   }
