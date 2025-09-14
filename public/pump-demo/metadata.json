@@ -1,0 +1,28 @@
+{
+  "name": "Demo Token",
+  "symbol": "DEMO",
+  "description": "Contoh token pumpfun-like di devnet",
+  "image": "https://raw.githubusercontent.com/nanangtop1/metadata-tes/165d2427dfefc346841b709592824e5099607b7b/public/pump-demo/logo1.jpg",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nanangtop1/metadata-tes/165d2427dfefc346841b709592824e5099607b7b/public/pump-demo/logo1.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://twitter.com/example",
+    "telegram": "https://t.me/example",
+    "discord": "https://discord.gg/example"
+  }
+}
